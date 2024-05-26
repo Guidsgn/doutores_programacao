@@ -1,0 +1,74 @@
+/* 
+                                __      __    _                 
+     /\                         \ \    / /   | |                
+    /  \    _____   _ _ __ ___   \ \  / /   _| |_ __   ___  ___ 
+   / /\ \  |_  / | | | '__/ _ \   \ \/ / | | | | '_ \ / _ \/ __|
+  / ____ \  / /| |_| | | |  __/    \  /| |_| | | |_) |  __/\__ \
+ /_/    \_\/___|\__,_|_|  \___|     \/  \__,_|_| .__/ \___||___/
+                                               | |              
+                                               |_|              
+*/
+
+    /* -------------------------------------------------- */
+
+
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap'); /* Fontes Utilizadas no Azure Vulpes */
+
+    /* Variáveis */
+
+    :root {
+
+        /* Cores Principais */
+
+        --roxo-puro: #6B33C1;
+        --azul-ametista: #5561D6;
+        --azul-oceano: #477DE3;
+        --azul-ceu: #2EB2FB;
+        --dourado-claro: #FFD9AD;
+
+        /* Cores Extras */
+
+        --bg-p: #1F1E2B;
+        --bg-dark: #12121A;
+
+        --fonte-ativa: #FDFDFD;
+        --fonte-inat: #3D3D48;
+
+        /* Cores Semânticas */
+
+        --sucess-one: #66D7AE;
+        --sucess-two: #1C7C54;
+        --sucess-three: #1B512D;
+
+        --warn-one: #E9BD57;
+        --warn-two: #F5B700;
+        --warn-three: #7D531B;
+
+        --error-one: #D66565;
+        --error-two: #7D1D1D;
+        --error-three: #521B1B;
+
+        /* Fontes */
+
+        --font-p: "Nunito", sans-serif;
+
+        --font-r: "Merriweather", serif;
+
+        --font-c: "JetBrains Mono", monospace;
+
+        /* Interface */
+
+    }
+    
+    /* -------------------------------------------------- */
+
+/* 
+                                __      __    _                 
+     /\                         \ \    / /   | |                
+    /  \    _____   _ _ __ ___   \ \  / /   _| |_ __   ___  ___ 
+   / /\ \  |_  / | | | '__/ _ \   \ \/ / | | | | '_ \ / _ \/ __|
+  / ____ \  / /| |_| | | |  __/    \  /| |_| | | |_) |  __/\__ \
+ /_/    \_\/___|\__,_|_|  \___|     \/  \__,_|_| .__/ \___||___/
+                                               | |              
+                                               |_|              
+*/
